@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana: Voiced and Semi-Voiced Sounds'
+parent_type: SupplementalResourceSection
 parent_uid: e500b390-b791-e818-1b9f-45b51aa2eb24
 title: Hiragana "zo"
 uid: 70025684-c8cc-a1cc-d3c9-23338887a393

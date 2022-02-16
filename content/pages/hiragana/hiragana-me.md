@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Hiragana
+parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: Hiragana "me"
 uid: 247f4f20-3300-01d7-10b3-2092efbc09f1

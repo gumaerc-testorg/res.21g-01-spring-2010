@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana: Voiced and Semi-Voiced Sounds'
+parent_type: SupplementalResourceSection
 parent_uid: e500b390-b791-e818-1b9f-45b51aa2eb24
 title: Hiragana "gu"
 uid: 725009f6-18b9-1a2a-0e31-96f4616dec5e

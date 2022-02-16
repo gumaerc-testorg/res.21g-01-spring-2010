@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana: Voiced and Semi-Voiced Sounds'
+parent_type: SupplementalResourceSection
 parent_uid: e500b390-b791-e818-1b9f-45b51aa2eb24
 title: Hiragana "bi"
 uid: 235841f0-eae3-a33e-4a5e-9fc691c6f070

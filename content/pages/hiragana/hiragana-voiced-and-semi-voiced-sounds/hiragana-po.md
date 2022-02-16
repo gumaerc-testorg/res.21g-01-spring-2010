@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana: Voiced and Semi-Voiced Sounds'
+parent_type: SupplementalResourceSection
 parent_uid: e500b390-b791-e818-1b9f-45b51aa2eb24
 title: Hiragana "po"
 uid: cf4cd86b-8737-1242-e67d-a2af7d50d1b9

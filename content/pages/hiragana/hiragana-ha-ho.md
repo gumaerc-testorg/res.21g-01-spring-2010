@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Hiragana
+parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: Hiragana "ha" - "ho"
 uid: e4da0d4c-5d97-7af6-e868-f4e364d51119

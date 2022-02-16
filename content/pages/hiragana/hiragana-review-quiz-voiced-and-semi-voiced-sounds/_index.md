@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Hiragana
+parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Review Quiz: Voiced and Semi-Voiced Sounds'
 uid: 32b7675c-2b1a-2634-5d1d-3629f35e3f6f

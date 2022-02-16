@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Katakana
 uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 ---

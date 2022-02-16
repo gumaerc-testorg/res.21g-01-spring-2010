@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana Review Quiz: "a" - "to"'
+parent_type: SupplementalResourceSection
 parent_uid: d5c651d7-fef2-8166-c376-339f697523be
 title: 'Hiragana Review Quiz: "a" - "to"'
 uid: fdad1356-373a-eb54-a41c-7c4b74c14c60

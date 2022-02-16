@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Hiragana
+parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #2'
 uid: d62fb2ae-e9c3-2f66-5889-13f2eb64fdf6

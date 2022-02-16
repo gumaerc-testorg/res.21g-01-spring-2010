@@ -2,7 +2,7 @@
 content_type: resource
 description: Japanese is written using a combination of kanji, hiragana, and katakana.
   Photo by hiromy on Flickr. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-21g-01-kana-spring-2010/b73f648e72b328cfbc6ed74857fc0302_res-21g-01s10-th.jpg
+file: /media/courses/res-21g-01-kana-spring-2010/b73f648e72b328cfbc6ed74857fc0302_res-21g-01s10-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Japanese is written using a combination of kanji, hiragana, and katakana.
@@ -11,6 +11,8 @@ image_metadata:
   credit: Photo by hiromy on Flickr. Used with permission.
   image-alt: Strips of paper scattered on fabric contain printed comments  from a
     Japanese blog.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: res-21g-01s10-th.jpg
 uid: b73f648e-72b3-28cf-bc6e-d74857fc0302

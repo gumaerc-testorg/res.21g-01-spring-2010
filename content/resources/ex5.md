@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-21g-01-kana-spring-2010/971fbaba44a85e118e5d58c563fdbe4b_ex5.zip
+file: /media/courses/res-21g-01-kana-spring-2010/971fbaba44a85e118e5d58c563fdbe4b_ex5.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Hiragana Exercise Sheet - Listening #5'
+parent_type: SupplementalResourceSection
 resourcetype: Other
 title: ex5.zip
 uid: 971fbaba-44a8-5e11-8e5d-58c563fdbe4b

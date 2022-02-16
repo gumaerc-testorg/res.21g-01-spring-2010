@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Katakana Recognition Exercise
+parent_type: SupplementalResourceSection
 parent_uid: 9f859657-a05b-2e05-a516-414b14a5e6e7
 title: "\u30DB\u30FC\u30E0\u30DA\u30FC\u30B8"
 uid: 6fe644c8-f359-3d92-f9f1-3e8ab945bd93

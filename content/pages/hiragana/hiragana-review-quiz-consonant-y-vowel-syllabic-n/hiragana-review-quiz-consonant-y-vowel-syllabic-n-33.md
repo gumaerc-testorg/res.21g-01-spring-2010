@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana Review Quiz: Consonant + y + Vowel; Syllabic n'
+parent_type: SupplementalResourceSection
 parent_uid: 16408389-0aa2-5986-d7d2-eb06c9474f94
 title: 'Hiragana Review Quiz: Consonant + y + Vowel; Syllabic n'
 uid: deed4b8d-6774-6401-6070-45c2891dad87

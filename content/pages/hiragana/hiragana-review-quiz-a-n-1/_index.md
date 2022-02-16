@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Hiragana
+parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Review Quiz: "a" - "n"'
 uid: 27f47c90-dd1d-7f88-9f9b-c305d65485cc

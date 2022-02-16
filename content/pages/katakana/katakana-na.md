@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Katakana
+parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: Katakana "na"
 uid: 92bc77e7-fe52-1d95-3ca1-a4a567374206

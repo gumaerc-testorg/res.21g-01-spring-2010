@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Katakana Review Quiz: "a" - "n"'
+parent_type: SupplementalResourceSection
 parent_uid: 37afddb1-e520-7449-0db1-5cb4e0a943a9
 title: 'Katakana Review Quiz: "a" - "n"'
 uid: dd30e214-d80c-8b98-799f-c0b9b3b3f62b

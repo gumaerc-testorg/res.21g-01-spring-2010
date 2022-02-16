@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Hiragana Review Quiz: Double Vowels; Double Consonants'
+parent_type: SupplementalResourceSection
 parent_uid: 3d9e649f-2286-bd81-75e3-b87d540f23c3
 title: 'Hiragana Review Quiz: Double Vowels; Double Consonants'
 uid: 8f6b9501-011b-55a8-0113-21c79cb64efa

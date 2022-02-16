@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Katakana
+parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: Stroke Order "ma" - "mo", "ya", "yu", "yo"
 uid: c549687b-7203-b1c6-2d96-f5512ccac796
@@ -42,7 +45,7 @@ uid: c549687b-7203-b1c6-2d96-f5512ccac796
 
 {{< tdclose >}}
 {{< tdopen >}}
-<![07_3_MU.gif]({{< resource_file 4b8d600b-0fed-8540-045f-1fb1f569f549 >}})
+\<![07_3_MU.gif]({{< resource_file 4b8d600b-0fed-8540-045f-1fb1f569f549 >}})
 {{< tdclose >}}
 
 {{< trclose >}}

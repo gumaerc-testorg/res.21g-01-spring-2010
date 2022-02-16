@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Katakana
+parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #2'
 uid: 16e3944a-0d7d-f4fb-56a3-929d6004c004
