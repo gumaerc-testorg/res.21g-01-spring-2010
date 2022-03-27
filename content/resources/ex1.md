@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Hiragana Exercise Sheet - Listening #1'
 parent_type: SupplementalResourceSection
+parent_uid: c6230044-4d93-f84e-721a-631251dbba36
 resourcetype: Other
 title: ex1.zip
 uid: 9c3b640c-ca34-e639-fa6c-001e204a50ec

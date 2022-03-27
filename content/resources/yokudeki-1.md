@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Katakana Review Quiz: "a" - "to"'
 parent_type: SupplementalResourceSection
+parent_uid: acd914ce-4e51-7405-950b-3971484ae1b0
 resourcetype: Image
 title: yokudeki.gif
 uid: f256e9e4-66ec-b8fe-842e-00bccf5b5902

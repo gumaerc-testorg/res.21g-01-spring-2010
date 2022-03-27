@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Katakana Recognition Exercise
 parent_type: SupplementalResourceSection
+parent_uid: 9f859657-a05b-2e05-a516-414b14a5e6e7
 resourcetype: Image
 title: katakana.gif
 uid: 7cf97561-6db7-07af-cb9b-24e8bbe659c4

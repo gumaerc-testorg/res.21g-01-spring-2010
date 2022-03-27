@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Katakana
 parent_type: SupplementalResourceSection
+parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 resourcetype: Document
 title: 'Katakana Worksheet #6: dakuOn'
 uid: c03165b5-3ae5-c790-7c78-e813c45f99e4

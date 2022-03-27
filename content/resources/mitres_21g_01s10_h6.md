@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Hiragana
 parent_type: SupplementalResourceSection
+parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 resourcetype: Document
 title: 'Hiragana Worksheet #6: dakuOn'
 uid: 8ab6dbd7-6abe-2947-bd14-2f4dffa6ddc6

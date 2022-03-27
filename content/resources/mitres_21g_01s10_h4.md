@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Hiragana
 parent_type: SupplementalResourceSection
+parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 resourcetype: Document
 title: 'Hiragana Worksheet #4: "ma" - "yo"'
 uid: adc2ae48-682c-7110-3e76-51499dd7ac6c

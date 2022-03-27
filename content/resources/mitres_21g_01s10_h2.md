@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Hiragana
 parent_type: SupplementalResourceSection
+parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 resourcetype: Document
 title: 'Hiragana Worksheet #2: "sa" - "to"'
 uid: b75580b6-199b-53e8-eb0c-7455abda0d30

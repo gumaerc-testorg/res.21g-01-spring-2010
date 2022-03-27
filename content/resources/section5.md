@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Katakana Exercise Sheet - Listening #5'
 parent_type: SupplementalResourceSection
+parent_uid: 49298abf-8106-c462-f84b-b8f1bdb114fc
 resourcetype: Other
 title: Section5.zip
 uid: 9d940a41-5d19-8de0-becb-cb58d09a4bfe

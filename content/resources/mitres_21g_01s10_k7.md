@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Katakana
 parent_type: SupplementalResourceSection
+parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 resourcetype: Document
 title: 'Katakana Worksheet #7: yooOn'
 uid: 7950e414-11ec-6343-30c1-ca8cf28421de

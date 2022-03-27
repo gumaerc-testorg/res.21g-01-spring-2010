@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Hiragana Review Quiz: "a" - "to"'
 parent_type: SupplementalResourceSection
+parent_uid: d5c651d7-fef2-8166-c376-339f697523be
 resourcetype: Image
 title: chigau.gif
 uid: a359790a-330e-8b3f-0f09-2e90964a62af
