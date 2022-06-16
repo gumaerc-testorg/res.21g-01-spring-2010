@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: Hiragana "a" - "o"
 uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-![0402.gif]({{< resource_file c63d5c43-f783-362e-e84e-c5c35cd14e09 >}})
+{{< resource c63d5c43-f783-362e-e84e-c5c35cd14e09 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0402.mov))
 
@@ -22,7 +27,7 @@ uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
 あした (asita/ashita) tomorrow  
 あそこ (asoko) over there
 
-![0404.gif]({{< resource_file c62de738-8f76-0688-e68e-190a1380b8c9 >}})
+{{< resource c62de738-8f76-0688-e68e-190a1380b8c9 >}}
 
 **Stroke order****:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0404.mov))
 
@@ -36,7 +41,7 @@ uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
 たいこ (taiko) drum  
 おいしい (oisii/oishii) delicious
 
-![0406.gif]({{< resource_file 1625556c-987a-dd50-eb54-df6e2527a5a3 >}})
+{{< resource 1625556c-987a-dd50-eb54-df6e2527a5a3 >}}
 
 **Stroke order****:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0406.mov))
 
@@ -48,7 +53,7 @@ uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
 くうき (kuuki) air  
 うし (usi/ushi) cow
 
-![0408.gif]({{< resource_file 242ece1e-cb48-25c9-7258-7f59f916bdce >}})
+{{< resource 242ece1e-cb48-25c9-7258-7f59f916bdce >}}
 
 **Stroke order****:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0408.mov))
 
@@ -61,7 +66,7 @@ uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
 いえ (ie) house  
 えき (eki) station
 
-![0410.gif]({{< resource_file fc03b203-322d-6fa4-d8c7-422d7557c454 >}})
+{{< resource fc03b203-322d-6fa4-d8c7-422d7557c454 >}}
 
 **Stroke order****:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0410.mov))
 
@@ -75,4 +80,4 @@ uid: ab17b477-75dd-95ca-e57f-b0e8c516ae98
 おおさか (oosaka) Osaka (City)
 
   
-\[["ka" - "ko"]({{< baseurl >}}/pages/hiragana/hiragana-ka-ko)\] \[[Home]({{< baseurl >}}/pages/hiragana)\]
+\[{{% resource_link 0610515b-6105-99a2-f6f7-44803a1c0b7c "\"ka\" - \"ko\"" %}}\] \[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]

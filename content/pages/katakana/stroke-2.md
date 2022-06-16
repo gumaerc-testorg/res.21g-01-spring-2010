@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: Stroke Order "sa" - "so", "ta" - "to"
 uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -19,7 +24,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![03_1_SA.gif]({{< resource_file 4fd4f41c-8d84-a5cc-067b-7e17dd74361e >}})
+{{< resource 4fd4f41c-8d84-a5cc-067b-7e17dd74361e >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -32,7 +37,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![03_2_SI.gif]({{< resource_file 09ee82c3-7d0c-5955-6955-e773c60ee3ea >}})
+{{< resource 09ee82c3-7d0c-5955-6955-e773c60ee3ea >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![03_3_SU.gif]({{< resource_file 9209e84a-1718-01d7-7d48-e5c2e8fa936f >}})
+{{< resource 9209e84a-1718-01d7-7d48-e5c2e8fa936f >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![03_4_SE.gif]({{< resource_file 3293cbdc-699e-f25a-fdc1-5e96f3b22f2a >}})
+{{< resource 3293cbdc-699e-f25a-fdc1-5e96f3b22f2a >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +76,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![03_5_SO.gif]({{< resource_file 3b008580-cf64-4096-3fec-3a47ab575970 >}})
+{{< resource 3b008580-cf64-4096-3fec-3a47ab575970 >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![04_1_TA.gif]({{< resource_file 552e57fa-b76c-745d-373e-579fa1e23f1a >}})
+{{< resource 552e57fa-b76c-745d-373e-579fa1e23f1a >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +106,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![04_2_TI.gif]({{< resource_file 7d43ba99-1d2b-3e5f-d319-c42fc659a2aa >}})
+{{< resource 7d43ba99-1d2b-3e5f-d319-c42fc659a2aa >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![04_3_TU.gif]({{< resource_file 54317dd0-d1ba-386f-c680-b1e1f77f26da >}})
+{{< resource 54317dd0-d1ba-386f-c680-b1e1f77f26da >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +132,7 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![04_4_TE.gif]({{< resource_file a83aaf03-3d1d-45bc-5236-ff0b5c2c457e >}})
+{{< resource a83aaf03-3d1d-45bc-5236-ff0b5c2c457e >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,13 +145,13 @@ uid: 198c18f3-4700-9b7d-4ce9-b7cb3b24f504
 
 {{< tdclose >}}
 {{< tdopen >}}
-![04_5_TO.gif]({{< resource_file c246e959-fd63-dbb5-0130-840f161d6a3a >}})
+{{< resource c246e959-fd63-dbb5-0130-840f161d6a3a >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-\[[Stroke Order "a" - "o", "ka" - "ko"]({{< baseurl >}}/pages/katakana/stroke-order-a-o)\]  
-\[[Home]({{< baseurl >}}/pages/katakana)\]  
-\[[Stroke Order "na" - "no", "ha" - "ho"]({{< baseurl >}}/pages/katakana/stroke-3)\]
+\[{{% resource_link 1b1c5f50-5265-e716-e378-57efef944a0f "Stroke Order \"a\" - \"o\", \"ka\" - \"ko\"" %}}\]  
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]  
+\[{{% resource_link 36316f92-fd10-2da0-e1ed-ee24f1b6b217 "Stroke Order \"na\" - \"no\", \"ha\" - \"ho\"" %}}\]

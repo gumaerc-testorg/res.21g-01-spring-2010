@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #4'
 uid: 97b56cb6-3d95-4eb7-59dd-267712222c6c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.6MB]({{< baseurl >}}/resources/ex4)) (This ZIP file contains: 26 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 96a8bce0-ac86-a236-526d-87a49fcdb869 "ZIP - 1.6MB" %}}) (This ZIP file contains: 26 .mov files.)
 
 Section A
 ---------
@@ -50,6 +55,6 @@ Section C
 10.  なんばん ("what number?") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c10.mov))
 
   
-\[[Listening #3]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-3)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Listening #5]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-5)\]
+\[{{% resource_link dfac5274-14b7-22b2-2d08-67742bc48b9e "Listening #3" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link 17ab5d38-59cc-096b-c3e3-1d9d09395258 "Listening #5" %}}\]

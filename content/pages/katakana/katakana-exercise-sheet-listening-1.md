@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #1'
 uid: ebfb0eb1-6cb0-25e5-846d-eca420765b6f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.4MB]({{< baseurl >}}/resources/section1)) (This ZIP file contains: 29 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 13ba5cf3-916e-53dd-56e6-cc94c0515235 "ZIP - 1.4MB" %}}) (This ZIP file contains: 29 .mov files.)
 
 Section A
 ---------
@@ -53,5 +58,5 @@ Section C
 13.  _siitu_ ("sheet") → シーツ ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/1c13.mov))
 
   
-\[[Home]({{< baseurl >}}/pages/katakana)\]  
-\[[Listening #2]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-2)\]
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]  
+\[{{% resource_link 16e3944a-0d7d-f4fb-56a3-929d6004c004 "Listening #2" %}}\]

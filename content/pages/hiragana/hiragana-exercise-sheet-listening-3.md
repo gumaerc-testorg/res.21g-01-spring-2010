@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #3'
 uid: dfac5274-14b7-22b2-2d08-67742bc48b9e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.9MB]({{< baseurl >}}/resources/ex3)) (This ZIP file contains: 25 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link aee28b0d-9052-6667-2526-4d705f131c35 "ZIP - 1.9MB" %}}) (This ZIP file contains: 25 .mov files.)
 
 Section A
 ---------
@@ -49,6 +54,6 @@ Section C
 11.  わかりました。 ("\[I\] understood.") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c11.mov))
 
   
-\[[Listening #2]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-2)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Listening #4]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-4)\]
+\[{{% resource_link d62fb2ae-e9c3-2f66-5889-13f2eb64fdf6 "Listening #2" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link 97b56cb6-3d95-4eb7-59dd-267712222c6c "Listening #4" %}}\]

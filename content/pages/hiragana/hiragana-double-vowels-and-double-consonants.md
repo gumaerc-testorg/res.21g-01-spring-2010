@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana: Double Vowels and Double Consonants'
 uid: 3abb6f0b-c813-6a12-0f55-632204bc05cf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Double Vowels
@@ -50,6 +55,6 @@ Whenever double consonants occur (i.e. pp, tt, kk, ss) the first of the pair is 
 きって kitte (postal stamp)
 
   
-\[[Previous: Consonant + y + Vowel; Syllabic n]({{< baseurl >}}/pages/hiragana/hiragana-consonant-y-vowel-syllabic-n)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Next: How to Write Sentences]({{< baseurl >}}/pages/hiragana/hiragana-how-to-write-sentences)\]
+\[{{% resource_link 69724f4c-380b-5a77-f4e1-0add90ed7891 "Previous: Consonant + y + Vowel; Syllabic n" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link decb8777-c0b1-0575-6e65-3e3dbb92e1c6 "Next: How to Write Sentences" %}}\]

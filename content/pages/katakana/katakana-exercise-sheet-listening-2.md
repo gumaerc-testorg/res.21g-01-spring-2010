@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #2'
 uid: 16e3944a-0d7d-f4fb-56a3-929d6004c004
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.6MB]({{< baseurl >}}/resources/section2)) (This ZIP file contains: 34 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 51459c1d-387c-ae71-9acd-b60a8e564ed6 "ZIP - 1.6MB" %}}) (This ZIP file contains: 34 .mov files.)
 
 Section A
 ---------
@@ -58,6 +63,6 @@ Section C
 15.  _abokado_ ("avocado") → アボカド ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/2c15.mov))
 
   
-\[[Listening #1]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-1)\]  
-\[[Home]({{< baseurl >}}/pages/katakana)\]  
-\[[Listening #3]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-3)\]
+\[{{% resource_link ebfb0eb1-6cb0-25e5-846d-eca420765b6f "Listening #1" %}}\]  
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]  
+\[{{% resource_link a7cb077d-c961-4c2e-04f6-e4715b7911a4 "Listening #3" %}}\]

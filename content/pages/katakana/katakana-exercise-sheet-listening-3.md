@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #3'
 uid: a7cb077d-c961-4c2e-04f6-e4715b7911a4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.6MB]({{< baseurl >}}/resources/section3)) (This ZIP file contains: 33 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 5e004e01-af31-8c57-046c-e11844d404c4 "ZIP - 1.6MB" %}}) (This ZIP file contains: 33 .mov files.)
 
 Section A
 ---------
@@ -57,6 +62,6 @@ Section C
 13.  _yooguruto_ ("yogurt") → ヨーグルト ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/3c13.mov))
 
   
-\[[Listening #2]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-2)\]  
-\[[Home]({{< baseurl >}}/pages/katakana)\]  
-\[[Listening #4]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-4)\]
+\[{{% resource_link 16e3944a-0d7d-f4fb-56a3-929d6004c004 "Listening #2" %}}\]  
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]  
+\[{{% resource_link 64a71349-c3d5-40d9-856a-c754993e838c "Listening #4" %}}\]

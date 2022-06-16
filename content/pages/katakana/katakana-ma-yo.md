@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: Katakana "ma" - "yo"
 uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-**![0562.gif]({{< resource_file 4437a53f-3ab0-753e-d29f-cbb8e68e7f73 >}})**
+**{{< resource 4437a53f-3ab0-753e-d29f-cbb8e68e7f73 >}}**
 
 **Printed form:** マ
 
@@ -20,7 +25,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 トマト (tomato) tomato  
 ウルトラマン (urutoraman) Ultraman
 
-**![0563.gif]({{< resource_file 60aa4f8f-ace7-8726-b180-0acc52acc76e >}})**
+**{{< resource 60aa4f8f-ace7-8726-b180-0acc52acc76e >}}**
 
 **Printed form:** ミ
 
@@ -31,7 +36,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 ミス (misu) Miss  
 ミニ (mini) mini
 
-**![0564.gif]({{< resource_file 3f385d83-3f6b-7ac9-3fa8-03cce74b3446 >}})**
+**{{< resource 3f385d83-3f6b-7ac9-3fa8-03cce74b3446 >}}**
 
 **Printed form:** ム
 
@@ -42,7 +47,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 ハム (hamu) ham  
 スリム (surimu) slim
 
-**![0565.gif]({{< resource_file 03df9f1d-326f-2507-fdf9-e07bbc0c29f2 >}})**
+**{{< resource 03df9f1d-326f-2507-fdf9-e07bbc0c29f2 >}}**
 
 **Printed form:** メ
 
@@ -52,7 +57,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 メキシコ (mekisiko/mekishiko) Mexico  
 アニメ (anime) animation
 
-**![0566.gif]({{< resource_file 643383b7-e9e5-d648-a791-cd08aae6dc78 >}})**
+**{{< resource 643383b7-e9e5-d648-a791-cd08aae6dc78 >}}**
 
 **Printed form:** モ
 
@@ -63,7 +68,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 モデル (moderu) model  
 メモ (memo) memo
 
-**![0568.gif]({{< resource_file a3041729-8f59-9c66-a263-f91bf2fbc672 >}})**
+**{{< resource a3041729-8f59-9c66-a263-f91bf2fbc672 >}}**
 
 **Printed form:** ヤ
 
@@ -73,7 +78,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 ロイヤル (roiyaru) loyal  
 ワイヤレス (waiyaresu) wireless
 
-**![0570.gif]({{< resource_file 4a748e50-14c5-e0f9-1578-39528ff663c1 >}})**
+**{{< resource 4a748e50-14c5-e0f9-1578-39528ff663c1 >}}**
 
 **Printed form:** ユ
 
@@ -82,7 +87,7 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 **Usage Examples:**  
 ユニゾン (yunizon) unison
 
-**![0572.gif]({{< resource_file ba7bc05a-54a0-f1a2-12a0-8b25d2156be7 >}})**
+**{{< resource ba7bc05a-54a0-f1a2-12a0-8b25d2156be7 >}}**
 
 **Printed form:** ヨ
 
@@ -93,4 +98,4 @@ uid: aa0c55de-c2f9-fb44-cbc0-be9af9de347f
 ヨセミテ (yosemite) Yosemite
 
   
-\[["ra" - "n"]({{< baseurl >}}/pages/katakana/katakana-ra-n)\] \[[Home]({{< baseurl >}}/pages/katakana)\] \[["ha" - "ho"]({{< baseurl >}}/pages/katakana/katakana-ha-ho)\]
+\[{{% resource_link 5c7d5bdc-4ddc-54a6-c499-13e25c748a05 "\"ra\" - \"n\"" %}}\] \[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\] \[{{% resource_link ff529f98-2aa7-fc29-dbee-900076bd4859 "\"ha\" - \"ho\"" %}}\]

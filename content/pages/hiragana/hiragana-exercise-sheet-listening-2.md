@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #2'
 uid: d62fb2ae-e9c3-2f66-5889-13f2eb64fdf6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 2.5MB]({{< baseurl >}}/resources/ex2)) (This ZIP file contains: 28 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 51f820aa-5f4b-4f2e-e172-386732b9db83 "ZIP - 2.5MB" %}}) (This ZIP file contains: 28 .mov files.)
 
 Section A
 ---------
@@ -52,6 +57,6 @@ Section C
 12.  へた ("unskillful") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/2c12.mov))
 
   
-\[[Listening #1]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-1)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Listening #3]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-3)\]
+\[{{% resource_link c6230044-4d93-f84e-721a-631251dbba36 "Listening #1" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link dfac5274-14b7-22b2-2d08-67742bc48b9e "Listening #3" %}}\]

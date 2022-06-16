@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: Hiragana "na" - "no"
 uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-![0442.gif]({{< resource_file 92454488-9752-0289-3ca1-b8368387e074 >}})
+{{< resource 92454488-9752-0289-3ca1-b8368387e074 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0442.mov))
 
@@ -22,7 +27,7 @@ uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
 ない (nai) not exist  
 さなえ (sanae) Sanae (female name)
 
-![0443.gif]({{< resource_file 76824170-3ec2-ecdc-f189-c86ac7c8c972 >}})
+{{< resource 76824170-3ec2-ecdc-f189-c86ac7c8c972 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0443.mov))
 
@@ -34,7 +39,7 @@ uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
 かに (kani) crab  
 にし (nishi) west
 
-![0444.gif]({{< resource_file 6e9636bb-ffc2-9555-d633-ac5521c87c75 >}})
+{{< resource 6e9636bb-ffc2-9555-d633-ac5521c87c75 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0444.mov))
 
@@ -47,7 +52,7 @@ uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
 きぬ (kinu) silk  
 ぬの (nuno) cloth
 
-![0445.gif]({{< resource_file 6b9d691a-8340-e91f-741c-c6385ab018e4 >}})
+{{< resource 6b9d691a-8340-e91f-741c-c6385ab018e4 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0445.mov))
 
@@ -59,7 +64,7 @@ uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
 ねこ (neko) cat  
 おかね (okane) money
 
-![0446.gif]({{< resource_file 1694e13b-b712-91d1-e79e-3d17b62a36b5 >}})
+{{< resource 1694e13b-b712-91d1-e79e-3d17b62a36b5 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0446.mov))
 
@@ -72,4 +77,4 @@ uid: 76a5d813-1ec3-dd65-f02d-5c29a5c85727
 のみます (nomimasu) to drink
 
   
-\[["ha" - "ho"]({{< baseurl >}}/pages/hiragana/hiragana-ha-ho)\] \[[Home]({{< baseurl >}}/pages/hiragana)\] \[["ta" - "to"]({{< baseurl >}}/pages/hiragana/hiragana-ta-to)\]
+\[{{% resource_link e4da0d4c-5d97-7af6-e868-f4e364d51119 "\"ha\" - \"ho\"" %}}\] \[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\] \[{{% resource_link 083e6207-cd1f-51e7-b56e-4d31463a8778 "\"ta\" - \"to\"" %}}\]

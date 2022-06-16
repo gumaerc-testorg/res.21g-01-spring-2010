@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana: Voiced and Semi-Voiced Sounds'
 uid: e500b390-b791-e818-1b9f-45b51aa2eb24
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The three voiceless consonants, /k/, /s/, and /t/ have voiced counterparts called _dakuon_. The voiced counterpart of /k/ is /g/, /s/ is /z/, and /t/ is /d/. The symbolic representation to indicate voicing of these consonants is very systematic and simple: add two dots at the upper right corner of each symbol. For instance, observe the following:
@@ -55,19 +60,19 @@ o
 /g/
 {{< tdclose >}}
 {{< tdopen >}}
-[が]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ga)
+{{% resource_link 38e28a53-88ba-9f29-45a9-e79832dd4afc "が" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぎ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gi)
+{{% resource_link 919cb09a-a984-9de3-5fcb-6ea92bbf3622 "ぎ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぐ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gu)
+{{% resource_link 725009f6-18b9-1a2a-0e31-96f4616dec5e "ぐ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[げ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ge)
+{{% resource_link 4c46aa3d-d8a2-41f7-556a-cd0d915c35ce "げ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ご]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-go)
+{{% resource_link 0f838467-cb1b-908c-1951-004c08afcea7 "ご" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,19 +81,19 @@ o
 /z/
 {{< tdclose >}}
 {{< tdopen >}}
-[ざ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-za)
+{{% resource_link 96b6266f-6b09-e2f7-d610-29625ef0c808 "ざ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[じ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zi-ji)
+{{% resource_link d7399637-3839-2290-facd-19c8714102f6 "じ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ず]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu)
+{{% resource_link 7929c847-b62c-1658-5367-0d7cd82702da "ず" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぜ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ze)
+{{% resource_link b71e41ee-3638-0036-3ae8-b454dc2ef072 "ぜ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぞ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zo)
+{{% resource_link 70025684-c8cc-a1cc-d3c9-23338887a393 "ぞ" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,19 +102,19 @@ o
 /d/
 {{< tdclose >}}
 {{< tdopen >}}
-[だ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da)
+{{% resource_link b9f237b7-79b3-22a7-4875-4abe18df3d2f "だ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぢ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ji)
+{{% resource_link 419ed858-30e5-9da9-dadf-e9dcd7200879 "ぢ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[づ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu-1)
+{{% resource_link e7e3d5d7-adc8-064c-260d-0e7112880ac8 "づ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[で]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da)
+{{% resource_link b9f237b7-79b3-22a7-4875-4abe18df3d2f "で" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ど]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-do)
+{{% resource_link b79043f2-28cb-b1ec-d219-12d21ba43a4f "ど" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,19 +123,19 @@ o
 /b/
 {{< tdclose >}}
 {{< tdopen >}}
-[ば]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ba)
+{{% resource_link 8926fc59-3907-097a-0e2f-5a7c1465d517 "ば" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[び]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bi)
+{{% resource_link 235841f0-eae3-a33e-4a5e-9fc691c6f070 "び" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぶ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bu)
+{{% resource_link 4c29170e-932c-b518-fb2a-ec97dc98a252 "ぶ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[べ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-be)
+{{% resource_link ccec52e0-ca8e-e4a1-f066-38ce0bc85efe "べ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぼ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bo)
+{{% resource_link bc710646-281a-25f4-09b9-2bbbdb07c5b0 "ぼ" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,19 +144,19 @@ o
 /p/
 {{< tdclose >}}
 {{< tdopen >}}
-[ぱ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pa)
+{{% resource_link b761937c-4979-d1b3-9e43-c225ced1bf9f "ぱ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぴ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pi)
+{{% resource_link 03ef5f66-f11e-f125-e7e7-3ab45692e05d "ぴ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぷ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pu)
+{{% resource_link fe2d7744-ab7c-ac59-d0e6-4402abac8f3f "ぷ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぺ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pe)
+{{% resource_link 1e7c456e-b92f-47ec-f4d3-44653d61a6d2 "ぺ" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[ぽ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-po)
+{{% resource_link cf4cd86b-8737-1242-e67d-a2af7d50d1b9 "ぽ" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,5 +164,5 @@ o
 {{< tableclose >}}
 
   
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Next: Consonant + y + Vowel; Syllabic n]({{< baseurl >}}/pages/hiragana/hiragana-consonant-y-vowel-syllabic-n)\]
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link 69724f4c-380b-5a77-f4e1-0add90ed7891 "Next: Consonant + y + Vowel; Syllabic n" %}}\]

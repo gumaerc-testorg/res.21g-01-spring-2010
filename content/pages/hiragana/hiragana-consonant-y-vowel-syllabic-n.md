@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana: Consonant + y + Vowel; Syllabic /n/'
 uid: 69724f4c-380b-5a77-f4e1-0add90ed7891
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Consonant + y + Vowel
@@ -128,6 +133,6 @@ Syllabic Consonant /n/
 When /n/ is followed by another consonant, or if a word ends with /n/, then that /n/ is a syllable in itself, and is written with the symbol ん. In JSL this syllable /n/ is represented as /n/.
 
   
-\[[Previous: Voiced and Semi-Voiced Sounds]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Next: Double Vowels; Double Consonants]({{< baseurl >}}/pages/hiragana/hiragana-double-vowels-and-double-consonants)\]
+\[{{% resource_link e500b390-b791-e818-1b9f-45b51aa2eb24 "Previous: Voiced and Semi-Voiced Sounds" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link 3abb6f0b-c813-6a12-0f55-632204bc05cf "Next: Double Vowels; Double Consonants" %}}\]

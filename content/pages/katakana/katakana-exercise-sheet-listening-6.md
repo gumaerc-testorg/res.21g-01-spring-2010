@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #6'
 uid: 386e2ebe-6982-827f-9e4e-64e26fe461fc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 1.7MB]({{< baseurl >}}/resources/section6)) (This ZIP file contains: 28 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 01e2a114-d908-7ec4-273c-bc26c273f87e "ZIP - 1.7MB" %}}) (This ZIP file contains: 28 .mov files.)
 
 Section A
 ---------
@@ -52,5 +57,5 @@ Section C
 7.  トランク → _toranku_ ("trunk") ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/6c7.mov))
 
   
-\[[Listening #5]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-5)\]  
-\[[Home]({{< baseurl >}}/pages/katakana)\]
+\[{{% resource_link 49298abf-8106-c462-f84b-b8f1bdb114fc "Listening #5" %}}\]  
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]

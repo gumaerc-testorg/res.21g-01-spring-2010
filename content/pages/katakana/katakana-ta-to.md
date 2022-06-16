@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: Katakana "ta" - "to"
 uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-**![0531.gif]({{< resource_file ccda56f5-47f0-1a9b-a9ab-bddb50167d52 >}})**
+**{{< resource ccda56f5-47f0-1a9b-a9ab-bddb50167d52 >}}**
 
 **Printed form:** タ
 
@@ -20,7 +25,7 @@ uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
 タイツ (taitu/taitsu) tights  
 タンザニア (tanzania) Tanzania
 
-**![0533.gif]({{< resource_file 20d3ad19-6fe5-f0e3-f1fd-7e6e3e234c39 >}})**
+**{{< resource 20d3ad19-6fe5-f0e3-f1fd-7e6e3e234c39 >}}**
 
 **Printed form:** チ
 
@@ -29,7 +34,7 @@ uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
 **Usage Examples:**  
 タヒチ (tahiti/tahichi) Tahiti
 
-**![0536.gif]({{< resource_file 0fe7cdc6-0ebf-7808-76db-bdf90ab59739 >}})**
+**{{< resource 0fe7cdc6-0ebf-7808-76db-bdf90ab59739 >}}**
 
 **Printed form:** ツ
 
@@ -39,7 +44,7 @@ uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
 ツイン (tuin/tsuin) twin  
 バケツ (baketu/baketsu) bucket
 
-**![0538.gif]({{< resource_file d0865a61-71e0-3051-5dde-0dffcf94fd53 >}})**
+**{{< resource d0865a61-71e0-3051-5dde-0dffcf94fd53 >}}**
 
 **Printed form:** テ
 
@@ -50,7 +55,7 @@ uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
 テキスト (tekisuto) text  
 デスク (desuku) desk
 
-**![0540.gif]({{< resource_file 079968be-d2a3-820e-4dbf-e3b1d4eaf1d6 >}})**
+**{{< resource 079968be-d2a3-820e-4dbf-e3b1d4eaf1d6 >}}**
 
 **Printed form:** ト
 
@@ -61,4 +66,4 @@ uid: 8ce0f26c-06cd-d1a3-91ed-2d3c648a582d
 アウトサイド (autosaido) outside
 
   
-\[["na" - "no"]({{< baseurl >}}/pages/katakana/katakana-na-no)\] \[[Home]({{< baseurl >}}/pages/katakana)\] \[["sa" - "so"]({{< baseurl >}}/pages/katakana/katakana-sa-so)\]
+\[{{% resource_link 12c942dd-b8aa-edab-23bf-cce31a291fce "\"na\" - \"no\"" %}}\] \[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\] \[{{% resource_link 80a91482-513f-b731-62d7-972dbb30d91d "\"sa\" - \"so\"" %}}\]

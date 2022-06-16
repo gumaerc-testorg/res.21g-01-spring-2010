@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: 'Katakana Exercise Sheet - Listening #4'
 uid: 64a71349-c3d5-40d9-856a-c754993e838c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 2.4MB]({{< baseurl >}}/resources/section4)) (This ZIP file contains: 37 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 2b0581fa-7412-a90e-d14b-0d60e07284f1 "ZIP - 2.4MB" %}}) (This ZIP file contains: 37 .mov files.)
 
 Section A
 ---------
@@ -65,6 +70,6 @@ Section D
 12.  _rebekka_ ("Rebecca") → レベッカ ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/4d12.mov))
 
   
-\[[Listening #3]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-3)\]  
-\[[Home]({{< baseurl >}}/pages/katakana)\]  
-\[[Listening #5]({{< baseurl >}}/pages/katakana/katakana-exercise-sheet-listening-5)\]
+\[{{% resource_link a7cb077d-c961-4c2e-04f6-e4715b7911a4 "Listening #3" %}}\]  
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]  
+\[{{% resource_link 49298abf-8106-c462-f84b-b8f1bdb114fc "Listening #5" %}}\]

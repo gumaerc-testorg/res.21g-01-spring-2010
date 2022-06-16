@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #1'
 uid: c6230044-4d93-f84e-721a-631251dbba36
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 3.0MB]({{< baseurl >}}/resources/ex1)) (This ZIP file contains: 26 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 9c3b640c-ca34-e639-fa6c-001e204a50ec "ZIP - 3.0MB" %}}) (This ZIP file contains: 26 .mov files.)
 
 Section A
 ---------
@@ -50,5 +55,5 @@ Section C
 11.  きく ("to listen") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/1c11.mov))
 
   
-\[[Home]({{< baseurl >}}/pages/hiragana)\]  
-\[[Listening #2]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-2)\]
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]  
+\[{{% resource_link d62fb2ae-e9c3-2f66-5889-13f2eb64fdf6 "Listening #2" %}}\]

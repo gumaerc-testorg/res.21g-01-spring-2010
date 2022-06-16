@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Katakana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: c84d8de3-767d-8d3f-234b-b45d41d2ac2e
 title: How to Write Foreign Words in Katakana
 uid: b3a7a8f2-ee9f-21d6-a0f2-976812141ad0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Hiragana and katakana developed almost simultaneously, but independently and for different reasons. This took place a little over a thousand years ago. In modern usage, katakana are used to represent words whose origins are foreign languages other than Chinese.
@@ -250,4 +255,4 @@ quo
 {{< tableclose >}}
 
   
-\[[Home]({{< baseurl >}}/pages/katakana)\]
+\[{{% resource_link c84d8de3-767d-8d3f-234b-b45d41d2ac2e "Home" %}}\]

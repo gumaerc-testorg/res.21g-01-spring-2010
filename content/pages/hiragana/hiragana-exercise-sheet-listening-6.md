@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana Exercise Sheet - Listening #6'
 uid: 93aba479-a8f4-9b5e-a7ad-94ad55affab8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ([ZIP - 2.1MB]({{< baseurl >}}/resources/ex6)) (This ZIP file contains: 31 .mov files.)
+Click on the audio file after each word or phrase to hear it pronounced. All pronunciation recordings for this section are available to download here: ({{% resource_link 1763634c-1721-c6b4-4048-d063d007cf0c "ZIP - 2.1MB" %}}) (This ZIP file contains: 31 .mov files.)
 
 Section A
 ---------
@@ -59,5 +64,5 @@ Section D
 10.  ちゅうがっこう ("junior high school") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d10.mov))
 
   
-\[[Listening #5]({{< baseurl >}}/pages/hiragana/hiragana-exercise-sheet-listening-5)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]
+\[{{% resource_link 17ab5d38-59cc-096b-c3e3-1d9d09395258 "Listening #5" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]

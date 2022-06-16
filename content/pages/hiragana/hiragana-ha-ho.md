@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,9 +8,13 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: Hiragana "ha" - "ho"
 uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-![0447.gif]({{< resource_file d06fed05-4277-c5d4-9cf1-56b828fcab37 >}})
+{{< resource d06fed05-4277-c5d4-9cf1-56b828fcab37 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0447.mov))
 
@@ -23,7 +28,7 @@ uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
 はし (hashi) chopstick  
 はなします to speak
 
-![0450.gif]({{< resource_file be9def6c-3386-2aa9-502e-1f0cd72451f2 >}})
+{{< resource be9def6c-3386-2aa9-502e-1f0cd72451f2 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0450.mov))
 
@@ -36,7 +41,7 @@ uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
 ひと (hito) person  
 ひとつ (hitotu/hitotsu) one unit
 
-![0453.gif]({{< resource_file c8962a27-65aa-df20-b391-59e152f0e463 >}})
+{{< resource c8962a27-65aa-df20-b391-59e152f0e463 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0453.mov))
 
@@ -49,7 +54,7 @@ uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
 ふたつ (hutatu/futatsu) two units  
 ふね (fune) boat
 
-![0456.gif]({{< resource_file 3fde0933-f072-374b-ddeb-a18b946707e7 >}})
+{{< resource 3fde0933-f072-374b-ddeb-a18b946707e7 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0456.mov))
 
@@ -61,7 +66,7 @@ uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
 へた (heta) unskillful  
 へそ (heso) belly button
 
-![0459.gif]({{< resource_file 9425bdba-076b-88e7-d8d9-c523ec7ed571 >}})
+{{< resource 9425bdba-076b-88e7-d8d9-c523ec7ed571 >}}
 
 **Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0459.mov))
 
@@ -76,4 +81,4 @@ uid: e4da0d4c-5d97-7af6-e868-f4e364d51119
  
 
   
-\[["ma" - "yo"]({{< baseurl >}}/pages/hiragana/hiragana-ma-yo)\] \[[Home]({{< baseurl >}}/pages/hiragana)\] \[["na" - "no"]({{< baseurl >}}/pages/hiragana/hiragana-na-no)\]
+\[{{% resource_link b7982202-bbcc-dcce-b047-a061a0de320b "\"ma\" - \"yo\"" %}}\] \[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\] \[{{% resource_link 76a5d813-1ec3-dd65-f02d-5c29a5c85727 "\"na\" - \"no\"" %}}\]

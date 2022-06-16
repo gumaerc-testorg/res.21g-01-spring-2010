@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Hiragana
@@ -7,6 +8,10 @@ parent_type: SupplementalResourceSection
 parent_uid: 1e31ae55-033d-5bae-d2e0-816ad12b6dea
 title: 'Hiragana: How to Write Sentences'
 uid: decb8777-c0b1-0575-6e65-3e3dbb92e1c6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Having learned how to write words in hiragana, the next step is learning how to write sentences. This requires that you first learn some conventions for writing the so-called "particles."
@@ -27,5 +32,5 @@ In Japanese, the punctuation mark that is comparable to the English comma is "ã€
 Japanese people write sentences vertically as well as horizontally. For Japanese I and II, you can write sentences horizontally, unless your teacher asks you to write vertically.
 
   
-\[[Previous: Double Vowels; Double Consonants]({{< baseurl >}}/pages/hiragana/hiragana-double-vowels-and-double-consonants)\]  
-\[[Home]({{< baseurl >}}/pages/hiragana)\]
+\[{{% resource_link 3abb6f0b-c813-6a12-0f55-632204bc05cf "Previous: Double Vowels; Double Consonants" %}}\]  
+\[{{% resource_link 1e31ae55-033d-5bae-d2e0-816ad12b6dea "Home" %}}\]
