@@ -4,6 +4,7 @@ description: This resource contains the information regarding Hiragana.
 file: /courses/res-21g-01-kana-spring-2010/233b9dc4426f169df6a39467c64595ce_MITRES_21G_01S10_h1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Hiragana
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Hiragana.
-

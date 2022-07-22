@@ -4,6 +4,7 @@ description: This resource contains the information regarding Katakana.
 file: /courses/res-21g-01-kana-spring-2010/f0e9c0fa830c482d22962acf0421c33a_MITRES_21G_01S10_k5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Katakana
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding Katakana.
-

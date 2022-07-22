@@ -4,6 +4,7 @@ description: New file Upload
 file: /courses/res-21g-01-kana-spring-2010/51f820aa5f4b4f2ee172386732b9db83_EX2.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Hiragana Exercise Sheet - Listening #2'
 parent_type: SupplementalResourceSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 New file Upload
-

@@ -12,6 +12,7 @@ image_metadata:
   image-alt: Strips of paper scattered on fabric contain printed comments  from a
     Japanese blog.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-21g-01s10-th.jpg
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Japanese is written using a combination of kanji, hiragana, and katakana. Photo by hiromy on Flickr. Used with permission.
-

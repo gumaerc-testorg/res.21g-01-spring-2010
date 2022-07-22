@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-21g-01-kana-spring-2010/13ba5cf3916e53dd56e6cc94c0515235_Section1.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Katakana Exercise Sheet - Listening #1'
 parent_type: SupplementalResourceSection
