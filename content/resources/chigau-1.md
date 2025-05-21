@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Uplaod
 file: /courses/res-21g-01-kana-spring-2010/630ed534362f7684dbc81276e3d1f578_chigau.gif
+file_size: 319
 file_type: image/gif
 image_metadata:
   caption: ''

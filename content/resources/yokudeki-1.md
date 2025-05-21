@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Uplaod
 file: /courses/res-21g-01-kana-spring-2010/f256e9e466ecb8fe842e00bccf5b5902_yokudeki.gif
+file_size: 550
 file_type: image/gif
 image_metadata:
   caption: ''
