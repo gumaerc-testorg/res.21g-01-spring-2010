@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/res-21g-01-kana-spring-2010/971fbaba44a85e118e5d58c563fdbe4b_ex5.zip
+file_size: 1107687
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
