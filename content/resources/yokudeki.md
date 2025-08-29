@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Uplaod
-file: /courses/res-21g-01-kana-spring-2010/3c782ba4957c30e39c95a1f475c6722e_yokudeki.gif
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/3c782ba4957c30e39c95a1f475c6722e_yokudeki.gif
 file_size: 550
 file_type: image/gif
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /courses/res-21g-01-kana-spring-2010/9d940a415d198de0becbcb58d09a4bfe_Section5.zip
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/9d940a415d198de0becbcb58d09a4bfe_Section5.zip
 file_size: 1933644
 file_type: application/zip
 learning_resource_types: []
