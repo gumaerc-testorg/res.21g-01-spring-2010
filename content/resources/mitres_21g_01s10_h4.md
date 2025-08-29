@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Hiragana.
-file: /courses/res-21g-01-kana-spring-2010/adc2ae48682c71103e7651499dd7ac6c_MITRES_21G_01S10_h4.pdf
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/adc2ae48682c71103e7651499dd7ac6c_MITRES_21G_01S10_h4.pdf
 file_size: 112431
 file_type: application/pdf
 learning_resource_types: []

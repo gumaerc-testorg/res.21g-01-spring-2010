@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-21g-01-kana-spring-2010/96a8bce0ac86a236526d87a49fcdb869_ex4.zip
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/96a8bce0ac86a236526d87a49fcdb869_ex4.zip
 file_size: 1659094
 file_type: application/zip
 learning_resource_types: []

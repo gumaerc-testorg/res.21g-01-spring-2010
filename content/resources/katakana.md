@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Uplaod
-file: /courses/res-21g-01-kana-spring-2010/7cf975616db707afcb9b24e8bbe659c4_katakana.gif
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/7cf975616db707afcb9b24e8bbe659c4_katakana.gif
 file_size: 8238
 file_type: image/gif
 image_metadata:
