@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Uplaod
-file: /courses/res-21g-01-kana-spring-2010/a080359b612ef812ba42c5325f126d2f_chigau.gif
+file: /ol-ocw-studio-app/courses/res-21g-01-kana-spring-2010/a080359b612ef812ba42c5325f126d2f_chigau.gif
 file_size: 319
 file_type: image/gif
 image_metadata:
