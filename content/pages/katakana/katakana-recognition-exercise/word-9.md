@@ -16,7 +16,7 @@ video_metadata:
 
 パフォーマンス = _pafoomansu_ = "performance"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word9.mov))
+Listen to the sound of the word: ({{% resource_link "1a05ea64-1ee5-4b35-9b4d-7152d0beda86" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

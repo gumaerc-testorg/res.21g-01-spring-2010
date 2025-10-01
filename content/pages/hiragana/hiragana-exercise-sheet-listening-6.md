@@ -19,49 +19,49 @@ Click on the audio file after each word or phrase to hear it pronounced. All pro
 Section A
 ---------
 
-1.  _kinoo_ ("yesterday") → きのう ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a1.mov))
-2.  _kyoo_ ("today") → きょう ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a2.mov))
-3.  _gakusee_ ("student") → がくせい ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a3.mov))
-4.  _tookyoo_ ("Tokyo") → とうきょう ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a4.mov))
-5.  _daizyoobu_ ("all right") → だいじょうぶ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a5.mov))
-6.  _maa_ ("well") → まあ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a6.mov))
-7.  _doozo_ ("please") → どうぞ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a7.mov))
-8.  _kiree_ ("pretty") → きれい([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a8.mov))
-9.  _eego_ ("English") → えいご ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a9.mov))
-10.  _kyuu_ ("nine") → きゅう ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6a10.mov))
+1.  _kinoo_ ("yesterday") → きのう ({{% resource_link "8a975c5c-7e65-4574-86df-f916fbd01d7b" "MOV" %}})
+2.  _kyoo_ ("today") → きょう ({{% resource_link "d05f057a-bf5a-47b1-8da4-703203005b1b" "MOV" %}})
+3.  _gakusee_ ("student") → がくせい ({{% resource_link "8c40200b-8f50-4f12-8335-018a89df9903" "MOV" %}})
+4.  _tookyoo_ ("Tokyo") → とうきょう ({{% resource_link "c6d34822-60a0-4a27-95b7-e53c449a111b" "MOV" %}})
+5.  _daizyoobu_ ("all right") → だいじょうぶ ({{% resource_link "14560e36-32cb-441b-8b4b-08e0cafe4212" "MOV" %}})
+6.  _maa_ ("well") → まあ ({{% resource_link "774bbdd3-c0ee-4fc1-889d-e51170e0301b" "MOV" %}})
+7.  _doozo_ ("please") → どうぞ ({{% resource_link "08bf789f-bb34-4af8-b0e3-ee732efefc38" "MOV" %}})
+8.  _kiree_ ("pretty") → きれい({{% resource_link "24c405cc-cdd2-4138-9f1f-611dbdfcbe2e" "MOV" %}})
+9.  _eego_ ("English") → えいご ({{% resource_link "c485434c-1106-4269-8d06-b3c0e7e7b529" "MOV" %}})
+10.  _kyuu_ ("nine") → きゅう ({{% resource_link "8f313ca7-cc43-48f3-8c9f-c7505ce790a2" "MOV" %}})
 
 Section B
 ---------
 
-1.  _zassi_ ("magazine") → ざっし ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b1.mov))
-2.  _asatte_ ("day after tomorrow") → あさって ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b2.mov))
-3.  _roppyaku_ ("600") → ろっぴゃく ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b3.mov))
-4.  _hassen_ ("8000") → はっせん ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b4.mov))
-5.  _gakkoo_ ("school") → がっこう ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b5.mov))
-6.  _motto_ ("more") → もっと ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6b6.mov))
+1.  _zassi_ ("magazine") → ざっし ({{% resource_link "fbca90ca-141b-4377-9702-859bfbbea475" "MOV" %}})
+2.  _asatte_ ("day after tomorrow") → あさって ({{% resource_link "17c31b09-eed0-4795-95ea-45fdc42be4c3" "MOV" %}})
+3.  _roppyaku_ ("600") → ろっぴゃく ({{% resource_link "335c7ba2-9712-4ad2-a347-e267060bc859" "MOV" %}})
+4.  _hassen_ ("8000") → はっせん ({{% resource_link "6ede64af-8893-4578-9245-84993810dfd3" "MOV" %}})
+5.  _gakkoo_ ("school") → がっこう ({{% resource_link "c5298a71-5f5c-42d1-8cc4-4969109c709a" "MOV" %}})
+6.  _motto_ ("more") → もっと ({{% resource_link "2456c520-e2ea-4b3e-9ba6-a5aa3abd8a20" "MOV" %}})
 
 Section C
 ---------
 
-1.  _**maamaa desu yo**._ ("\[It's\] so-so.") → まあまあですよ。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6c1.mov))
-2.  _**iie, dooitasimasite**._ ("No, don't mention it.") → いいえ、どういたしまして。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6c2.mov))
-3.  _**doomo arigatoo**._ ("Thanks a lot.") → どうもありがとう。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6c3.mov))
-4.  _**tyotto tiisakatta desu**._ ("It was a little small.") → ちょっとちいさかったです。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6c4.mov))
-5.  _**tottemo yokatta desu nee**._ ("\[It\] was really great, wasn't \[it\].") → とってもよかったですねえ。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6c5.mov))
+1.  _**maamaa desu yo**._ ("\[It's\] so-so.") → まあまあですよ。({{% resource_link "5509950b-307e-448d-80c7-4d028e41e30c" "MOV" %}})
+2.  _**iie, dooitasimasite**._ ("No, don't mention it.") → いいえ、どういたしまして。({{% resource_link "2af6c9ac-1214-40f4-bc71-be934df28455" "MOV" %}})
+3.  _**doomo arigatoo**._ ("Thanks a lot.") → どうもありがとう。({{% resource_link "372de906-52a0-4c08-9d03-d4ebd77bb55b" "MOV" %}})
+4.  _**tyotto tiisakatta desu**._ ("It was a little small.") → ちょっとちいさかったです。({{% resource_link "5fd434af-35e8-45b1-9459-5ed365e6bedf" "MOV" %}})
+5.  _**tottemo yokatta desu nee**._ ("\[It\] was really great, wasn't \[it\].") → とってもよかったですねえ。({{% resource_link "396c8a7c-dc59-4b78-a323-0ff63b8c6f48" "MOV" %}})
 
 Section D
 ---------
 
-1.  きのう("yesterday") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d1.mov))
-2.  どうぞ ("please") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d2.mov))
-3.  いいです ("\[it's\] good") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d3.mov))
-4.  おおきかったです ("\[it\] was big") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d4.mov))
-5.  せんせい ("teacher") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d5.mov))
-6.  えいが("movie") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d6.mov))
-7.  おかあさん ("mother") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d7.mov))
-8.  おとうさん("father") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d8.mov))
-9.  はっせんはっぴゃく ("8800") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d9.mov))
-10.  ちゅうがっこう ("junior high school") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/6d10.mov))
+1.  きのう("yesterday") ({{% resource_link "59e60e98-c21c-47ba-87c3-d76be9c495e9" "MOV" %}})
+2.  どうぞ ("please") ({{% resource_link "2adaaf72-a623-4e9d-87f7-344625a40489" "MOV" %}})
+3.  いいです ("\[it's\] good") ({{% resource_link "eff88a9c-dcfc-41f9-aad3-5168437c646a" "MOV" %}})
+4.  おおきかったです ("\[it\] was big") ({{% resource_link "4f4203cd-ad00-4e6f-8c76-1100e57299e0" "MOV" %}})
+5.  せんせい ("teacher") ({{% resource_link "f74c1dff-e7b5-4646-a3ce-bb11791266b2" "MOV" %}})
+6.  えいが("movie") ({{% resource_link "ae9135bc-1ca5-410e-9c20-8ad5d025cfe8" "MOV" %}})
+7.  おかあさん ("mother") ({{% resource_link "ad2ccdac-b05c-44ce-ad11-380397ddb230" "MOV" %}})
+8.  おとうさん("father") ({{% resource_link "4462d582-979d-4b68-bc01-db6cf318dfaf" "MOV" %}})
+9.  はっせんはっぴゃく ("8800") ({{% resource_link "a005d8c5-7495-4866-a343-e9a519878720" "MOV" %}})
+10.  ちゅうがっこう ("junior high school") ({{% resource_link "966ee7c1-2e1c-4dcf-9f72-835f7070f8ca" "MOV" %}})
 
   
 \[{{% resource_link 17ab5d38-59cc-096b-c3e3-1d9d09395258 "Listening #5" %}}\]  

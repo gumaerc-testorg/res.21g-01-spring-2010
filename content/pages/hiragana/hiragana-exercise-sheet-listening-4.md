@@ -19,40 +19,40 @@ Click on the audio file after each word or phrase to hear it pronounced. All pro
 Section A
 ---------
 
-1.  _tizu_ ("map") → ちず ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a1.mov))
-2.  _migi_ ("right side") → みぎ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a2.mov))
-3.  _gogo_ ("afternoon") → ごご ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a3.mov))
-4.  _tegami_ ("letter") → てがみ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a4.mov))
-5.  _hidari_ ("left side") → ひだり ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a5.mov))
-6.  _kazoku_ ("family") → かぞく ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a6.mov))
-7.  _sinbun_ ("newspaper") → しんぶん ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a7.mov))
-8.  _denwa_ ("telephone") → でんわ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a8.mov))
-9.  _kaban_ ("bag") → かばん ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a9.mov))
-10.  _enpitu_ ("pencil") → えんぴつ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4a10.mov))
+1.  _tizu_ ("map") → ちず ({{% resource_link "409e39f6-2361-4e61-beea-3b91162b5834" "MOV" %}})
+2.  _migi_ ("right side") → みぎ({{% resource_link "2c51956c-9f21-447c-b441-999fe9c05116" "MOV" %}})
+3.  _gogo_ ("afternoon") → ごご ({{% resource_link "2bc75a4e-02d0-41f4-b02b-21f7e4a26f5f" "MOV" %}})
+4.  _tegami_ ("letter") → てがみ ({{% resource_link "ce5109b7-8ef0-4250-8178-3c81584bbfe3" "MOV" %}})
+5.  _hidari_ ("left side") → ひだり ({{% resource_link "2eafa552-f0f0-47a8-bfa8-a489cfb7c9a6" "MOV" %}})
+6.  _kazoku_ ("family") → かぞく ({{% resource_link "a7896a1c-be64-4e92-b50b-ada97f39d243" "MOV" %}})
+7.  _sinbun_ ("newspaper") → しんぶん ({{% resource_link "f858e94f-2fb1-42f4-8624-ec8085eeacea" "MOV" %}})
+8.  _denwa_ ("telephone") → でんわ ({{% resource_link "2ca15cf3-0424-4e38-9da5-5b51ce714a33" "MOV" %}})
+9.  _kaban_ ("bag") → かばん ({{% resource_link "ca63568f-fbe1-4d62-9c50-ec39995848d8" "MOV" %}})
+10.  _enpitu_ ("pencil") → えんぴつ ({{% resource_link "a00ad11b-3ea9-4d78-8aae-1d0a040cba80" "MOV" %}})
 
 Section B
 ---------
 
-1.  _**tabemasu**._ ("\[I\] eat.") → たべます。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b1.mov))
-2.  _**dekimasu**._ ("\[It\] is possible/\[I\] can do \[it\].") → できます。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b2.mov))
-3.  _**itadakimasu**._ ("\[I\] receive.") → いただきます。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b3.mov))
-4.  _**do**o**zo**_ ("Please.") → どうぞ。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b4.mov))
-5.  _**tigaimasu**._ ("\[It's\] wrong.") → ちがいます。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b5.mov))
-6.  _**arigato**o**gozaimasu**._ ("Thank you very much.") → ありがとうござ います。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4b6.mov))
+1.  _**tabemasu**._ ("\[I\] eat.") → たべます。({{% resource_link "80adb0c2-3f49-42fb-8182-f4c9f1f91909" "MOV" %}})
+2.  _**dekimasu**._ ("\[It\] is possible/\[I\] can do \[it\].") → できます。({{% resource_link "8e503f68-ada9-4356-88d9-e4c8b3e4d3b4" "MOV" %}})
+3.  _**itadakimasu**._ ("\[I\] receive.") → いただきます。({{% resource_link "10452982-876a-4e2e-807d-0787883814c0" "MOV" %}})
+4.  _**do**o**zo**_ ("Please.") → どうぞ。({{% resource_link "d21f8388-92c2-4283-aadb-70853264f83e" "MOV" %}})
+5.  _**tigaimasu**._ ("\[It's\] wrong.") → ちがいます。({{% resource_link "3fa3c99e-8ef9-44f2-8daf-564457f5688c" "MOV" %}})
+6.  _**arigato**o**gozaimasu**._ ("Thank you very much.") → ありがとうござ います。({{% resource_link "b6325f10-a996-40e2-87da-9cd611892242" "MOV" %}})
 
 Section C
 ---------
 
-1.  にほんご ("Japanese language") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c1.mov))
-2.  だいがく ("college") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c2.mov))
-3.  ぜんぶ ("all") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c3.mov))
-4.  おなじ ("the same") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c4.mov))
-5.  ぎんざ ("Ginza") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c5.mov))
-6.  ぱちぱち ("crackling") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c6.mov))
-7.  ぴかぴか ("flashing") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c7.mov))
-8.  ぽとぽと ("dripping") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c8.mov))
-9.  だめです ("it's no good") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c9.mov))
-10.  なんばん ("what number?") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/4c10.mov))
+1.  にほんご ("Japanese language") ({{% resource_link "82b3d2a4-2113-4d11-9f2d-0c7bb4d09fbd" "MOV" %}})
+2.  だいがく ("college") ({{% resource_link "cb5ee25a-0fa0-4314-92a4-d8aaa08f683f" "MOV" %}})
+3.  ぜんぶ ("all") ({{% resource_link "d84de14d-2abb-431b-a7ec-2c9d5b9b9aaa" "MOV" %}})
+4.  おなじ ("the same") ({{% resource_link "1beafe0b-3069-4725-a41b-bd47a85b7f78" "MOV" %}})
+5.  ぎんざ ("Ginza") ({{% resource_link "396d2a76-f9a4-4560-aee5-31c35acc122f" "MOV" %}})
+6.  ぱちぱち ("crackling") ({{% resource_link "8c582b6a-c8cf-4a88-a777-1ced2ae548a1" "MOV" %}})
+7.  ぴかぴか ("flashing") ({{% resource_link "4e4128a1-6d5d-47ce-910c-b62f7beaaa08" "MOV" %}})
+8.  ぽとぽと ("dripping") ({{% resource_link "4f9b85b2-689f-4f83-9e1e-9305d1dd2723" "MOV" %}})
+9.  だめです ("it's no good") ({{% resource_link "340b0838-af5b-418b-b18d-70f357e302a4" "MOV" %}})
+10.  なんばん ("what number?") ({{% resource_link "28bf819d-7776-4ccf-ac95-f2d5eb76107e" "MOV" %}})
 
   
 \[{{% resource_link dfac5274-14b7-22b2-2d08-67742bc48b9e "Listening #3" %}}\]  

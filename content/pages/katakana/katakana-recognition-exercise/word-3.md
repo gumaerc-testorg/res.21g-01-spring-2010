@@ -16,7 +16,7 @@ video_metadata:
 
 パワーアップ = _pawaaappu_ = "power up"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word3.mov))
+Listen to the sound of the word: ({{% resource_link "7d3278af-3b0c-468c-aa98-40340b5e41af" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

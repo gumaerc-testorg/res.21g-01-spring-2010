@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word6.mov
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: MOV
+uid: 81cfdf30-2ee0-411b-bc12-fb715aeac10f
+wayback_url: ''
+---

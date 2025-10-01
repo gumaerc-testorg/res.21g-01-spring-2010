@@ -16,7 +16,7 @@ video_metadata:
 
 アプリケーション = _apurikeesyon_ = "application"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word20.mov))
+Listen to the sound of the word: ({{% resource_link "7371341c-241d-4a60-9155-2c1295d312d8" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

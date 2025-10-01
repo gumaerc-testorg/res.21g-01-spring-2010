@@ -16,7 +16,7 @@ video_metadata:
 
 インターネット = _intaanetto_ = "Internet"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word5.mov))
+Listen to the sound of the word: ({{% resource_link "a2f126da-135c-42a3-baa0-3e8fb4f95967" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  
