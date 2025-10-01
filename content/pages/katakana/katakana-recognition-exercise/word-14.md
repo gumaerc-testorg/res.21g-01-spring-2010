@@ -16,7 +16,7 @@ video_metadata:
 
 ネットサーフィン = _nettosaafin_ = "Net surfing"
 
-Listen to the sound of the word: ([MOV)](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word14.mov)
+Listen to the sound of the word: ({{% resource_link "bd221f3e-8ef7-439e-80ad-79290636a9ba" "MOV)" %}}
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

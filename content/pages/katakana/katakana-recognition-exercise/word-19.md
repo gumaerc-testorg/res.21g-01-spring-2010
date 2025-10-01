@@ -18,7 +18,7 @@ video_metadata:
 
 This word is a bit harder than the others. It is a result of an abbreviation of the full transliteration of "personal computer" = _paasonaru conpyuuta_ = パーソナルコンピュータ
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word19.mov))
+Listen to the sound of the word: ({{% resource_link "e2f0bc60-5291-44c5-8128-3b43a2d32679" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

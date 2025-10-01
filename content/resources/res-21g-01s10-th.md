@@ -7,8 +7,8 @@ file_size: 16597
 file_type: image/jpeg
 image_metadata:
   caption: Japanese is written using a combination of kanji, hiragana, and katakana.
-    (Photo by [hiromy](http://www.flickr.com/photos/hiromy/120211955/) on Flickr.
-    Used with permission.)
+    (Photo by {{% resource_link "4a7f3733-1441-42bd-81ed-4602dca8c46f" "hiromy" %}}
+    on Flickr. Used with permission.)
   credit: Photo by hiromy on Flickr. Used with permission.
   image-alt: Strips of paper scattered on fabric contain printed comments  from a
     Japanese blog.
