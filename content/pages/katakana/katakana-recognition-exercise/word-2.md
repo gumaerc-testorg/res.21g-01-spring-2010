@@ -16,7 +16,7 @@ video_metadata:
 
 アイオン = _aikon_ = "icon"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word2.mov))
+Listen to the sound of the word: ({{% resource_link "b81dbefd-906a-4204-b2fe-8af8482ec025" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

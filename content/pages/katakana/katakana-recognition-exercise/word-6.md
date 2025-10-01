@@ -16,7 +16,7 @@ video_metadata:
 
 ファイル = _fa(i)ru_ = "file"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word6.mov))
+Listen to the sound of the word: ({{% resource_link "81cfdf30-2ee0-411b-bc12-fb715aeac10f" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

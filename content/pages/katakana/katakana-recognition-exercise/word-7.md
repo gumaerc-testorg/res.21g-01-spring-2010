@@ -16,7 +16,7 @@ video_metadata:
 
 ダブルクリック = _daburukurikku_ = "double click"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word7.mov))
+Listen to the sound of the word: ({{% resource_link "4f77114c-627b-4fe1-ac2b-522f1686962b" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

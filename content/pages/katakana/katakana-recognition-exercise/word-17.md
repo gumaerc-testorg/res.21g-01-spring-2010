@@ -16,7 +16,7 @@ video_metadata:
 
 オンラインショッピング = _onrainsyoppingu_ = "on-line shopping"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word17.mov))
+Listen to the sound of the word: ({{% resource_link "1006262e-98b2-4dc4-94fc-76beda770611" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

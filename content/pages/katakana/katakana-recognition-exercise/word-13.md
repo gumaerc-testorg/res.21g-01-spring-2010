@@ -16,7 +16,7 @@ video_metadata:
 
 メディア = _mede(i)a_ = "media"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word13.mov))
+Listen to the sound of the word: ({{% resource_link "d666923e-c974-4a89-a653-abec9195efb2" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

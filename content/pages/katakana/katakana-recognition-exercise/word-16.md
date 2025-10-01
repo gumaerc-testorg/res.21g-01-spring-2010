@@ -16,7 +16,7 @@ video_metadata:
 
 バックアップ = _bakkuappu_ = "backup"
 
-Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word16.mov))
+Listen to the sound of the word: ({{% resource_link "95155aa5-b567-42c6-a449-b720868d4251" "MOV" %}})
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  
