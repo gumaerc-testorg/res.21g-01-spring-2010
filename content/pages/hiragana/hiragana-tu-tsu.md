@@ -16,7 +16,7 @@ video_metadata:
 
 {{< resource ef7d0a85-a9a0-6381-568a-e16009d1c5d0 >}}
 
-**Stroke order:** ({{% resource_link "1292f715-107b-48d3-8304-eedb8cac6dcb" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0436.mov))
 
 **Printed form:** つ
 

@@ -16,7 +16,7 @@ video_metadata:
 
 コントロールパネル = _contoroorupaneru_ = "control panel"
 
-Listen to the sound of the word: ({{% resource_link "e1665206-6dda-4443-b528-1e49f90cd563" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word12.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  
