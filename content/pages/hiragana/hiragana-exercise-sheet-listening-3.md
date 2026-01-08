@@ -19,39 +19,39 @@ Click on the audio file after each word or phrase to hear it pronounced. All pro
 Section A
 ---------
 
-1.  _watasi_ ("I") → わたし ({{% resource_link "caace2a7-f516-4042-898f-a9afff5c6eb9" "MOV" %}})
-2.  _yoru_ ("night") → よる ({{% resource_link "04a6eea8-1a22-4215-8349-c0c7195e04ec" "MOV" %}})
-3.  _otera_ ("temple") → おてら ({{% resource_link "2d810a3f-6677-4929-bdf2-521912ba9622" "MOV" %}})
-4.  _are_ ("that one over there") → あれ ({{% resource_link "bf15378c-a04d-48e1-bc98-b4dc282fce54" "MOV" %}})
-5.  _kuroi_ ("black") → くろい ({{% resource_link "b32aa944-897a-40c7-81e5-007b8f20769e" "MOV" %}})
-6.  _yoko_ ("side") → よこ ({{% resource_link "817c8b12-629e-49dc-8c06-fe8af99b5fd8" "MOV" %}})
-7.  _sara_ ("dish") → さら ({{% resource_link "9aab39e4-28a4-402d-95a0-cd86e76eb6a6" "MOV" %}})
-8.  _irimasen_ ("\[I\] don't need \[it\]") → いりません ({{% resource_link "d56866c9-2f55-4304-93bb-291927f32147" "MOV" %}})
-9.  _minna_ ("everybody") → みんな ({{% resource_link "21d5a324-fa7c-42b1-82e3-9da174fd4897" "MOV" %}})
-10.  _anmari_ ("not very") → あんまり ({{% resource_link "06a9bb68-fc5d-4288-ab05-f1f5b19e34f1" "MOV" %}})
+1.  _watasi_ ("I") → わたし ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a1.mov))
+2.  _yoru_ ("night") → よる ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a2.mov))
+3.  _otera_ ("temple") → おてら ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a3.mov))
+4.  _are_ ("that one over there") → あれ ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/3a4.mov))
+5.  _kuroi_ ("black") → くろい ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a5.mov))
+6.  _yoko_ ("side") → よこ ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a6.mov))
+7.  _sara_ ("dish") → さら ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a7.mov))
+8.  _irimasen_ ("\[I\] don't need \[it\]") → いりません ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a8.mov))
+9.  _minna_ ("everybody") → みんな ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a9.mov))
+10.  _anmari_ ("not very") → あんまり ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3a10.mov))
 
 Section B
 ---------
 
-1.  _**simasenne**._ ("\[You\] won't do \[it\], will \[you\].") → しませんね。({{% resource_link "75caf308-9141-45b1-bbde-58d175c9954a" "MOV" %}})
-2.  _**iya, ikimasen**de**sita**._ ("No, \[I\] didn't go.") → いや、いきませんでした。({{% resource_link "f5d0d2b9-dc34-4acb-abc0-8eacd2e9c4b4" "MOV" %}})
-3.  _de**kimasen**. **sumimasen**_ ("\[I\] can't do \[it\]. I'm sorry.") → できません。すみません。({{% resource_link "bdfdd24b-fbd7-46bd-a3a0-9a5ef5836fdf" "MOV" %}})
-4.  _**hai**, **tukurimasitayo**._ ("Yes, \[I\] made \[it\].") → はい、つくりましたよ。({{% resource_link "f7cbeb27-d844-441a-bdc0-b17b60a8f393" "MOV" %}})
+1.  _**simasenne**._ ("\[You\] won't do \[it\], will \[you\].") → しませんね。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3b1.mov))
+2.  _**iya, ikimasen**de**sita**._ ("No, \[I\] didn't go.") → いや、いきませんでした。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3b2.mov))
+3.  _de**kimasen**. **sumimasen**_ ("\[I\] can't do \[it\]. I'm sorry.") → できません。すみません。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3b3.mov))
+4.  _**hai**, **tukurimasitayo**._ ("Yes, \[I\] made \[it\].") → はい、つくりましたよ。([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3b4.mov))
 
 Section C
 ---------
 
-1.  となり ("next to") ({{% resource_link "bb6d9270-2a4b-4f6a-8717-fef557125c79" "MOV" %}})
-2.  ほん ("book") ({{% resource_link "f6d49392-0312-4202-9bfa-5df3583983a7" "MOV" %}})
-3.  ふるい ("old") ({{% resource_link "31ddbb87-759a-4ee6-96d1-d63df2d8a259" "MOV" %}})
-4.  つまらない ("boring") ({{% resource_link "01948590-e971-4832-aed9-92fc9eff29ce" "MOV" %}})
-5.  あたらしい ("new") ({{% resource_link "244f6e25-a230-42b1-8e5f-49a880a30104" "MOV" %}})
-6.  おもしろい ("interesting") ({{% resource_link "ec026c3c-3fc3-4a0c-ba5e-253b8f60ca99" "MOV" %}})
-7.  たなかさん ("Mr. Tanaka") ({{% resource_link "60ba7916-0c18-4dbf-a460-29f602f818dd" "MOV" %}})
-8.  しませんね。("\[You\] don't do \[it\], do \[you\].") ({{% resource_link "6f14f359-6909-421f-8b0f-1486a5840045" "MOV" %}})
-9.  いきませんか。 ("Won't \[you\] go?") ({{% resource_link "2761aee3-fab5-4b50-8406-ca135d58f418" "MOV" %}})
-10.  つくりませんよ。 ("\[I\] didn't make \[it\].") ({{% resource_link "050a513b-2c22-4249-9615-20b3823308b9" "MOV" %}})
-11.  わかりました。 ("\[I\] understood.") ({{% resource_link "568f3ca8-e309-495b-8bb0-80200c47bc45" "MOV" %}})
+1.  となり ("next to") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c1.mov))
+2.  ほん ("book") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c2.mov))
+3.  ふるい ("old") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c3.mov))
+4.  つまらない ("boring") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c4.mov))
+5.  あたらしい ("new") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c5.mov))
+6.  おもしろい ("interesting") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c6.mov))
+7.  たなかさん ("Mr. Tanaka") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c7.mov))
+8.  しませんね。("\[You\] don't do \[it\], do \[you\].") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c8.mov))
+9.  いきませんか。 ("Won't \[you\] go?") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c9.mov))
+10.  つくりませんよ。 ("\[I\] didn't make \[it\].") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c10.mov))
+11.  わかりました。 ("\[I\] understood.") ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_EXERCISES/3c11.mov))
 
   
 \[{{% resource_link d62fb2ae-e9c3-2f66-5889-13f2eb64fdf6 "Listening #2" %}}\]  

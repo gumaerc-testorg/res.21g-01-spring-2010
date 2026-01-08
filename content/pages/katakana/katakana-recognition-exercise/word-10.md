@@ -16,7 +16,7 @@ video_metadata:
 
 ホームページ = _hoomupeezi_ = "home page"
 
-Listen to the sound of the word: ({{% resource_link "f6b234f4-e98e-4154-b78c-56a3257573fe" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word10.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

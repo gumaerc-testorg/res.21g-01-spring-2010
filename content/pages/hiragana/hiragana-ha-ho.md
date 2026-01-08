@@ -16,7 +16,7 @@ video_metadata:
 
 {{< resource d06fed05-4277-c5d4-9cf1-56b828fcab37 >}}
 
-**Stroke order:** ({{% resource_link "e811a475-1dce-416f-8d5d-c76b15954d77" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0447.mov))
 
 **Printed form:** は
 
@@ -30,7 +30,7 @@ video_metadata:
 
 {{< resource be9def6c-3386-2aa9-502e-1f0cd72451f2 >}}
 
-**Stroke order:** ({{% resource_link "ee631444-65ca-4b37-bc31-4a9fa49e8a32" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0450.mov))
 
 **Printed form:** ひ
 
@@ -43,7 +43,7 @@ video_metadata:
 
 {{< resource c8962a27-65aa-df20-b391-59e152f0e463 >}}
 
-**Stroke order:** ({{% resource_link "53d5a9f6-db71-4406-b16e-379a7fd406d3" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0453.mov))
 
 **Printed form:** ふ
 
@@ -56,7 +56,7 @@ video_metadata:
 
 {{< resource 3fde0933-f072-374b-ddeb-a18b946707e7 >}}
 
-**Stroke order:** ({{% resource_link "4b570710-639c-4157-aac0-c1c1496f496c" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0456.mov))
 
 **Printed form:** へ
 
@@ -68,7 +68,7 @@ video_metadata:
 
 {{< resource 9425bdba-076b-88e7-d8d9-c523ec7ed571 >}}
 
-**Stroke order:** ({{% resource_link "a22514c2-a6e7-4d51-a281-1ede157aede6" "MOV" %}})
+**Stroke order:** ([MOV](http://www.archive.org/download/MITRES21F.01S10_HIRAGANA_CHARACTERS/0459.mov))
 
 **Printed form:** ほ
 

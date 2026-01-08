@@ -16,7 +16,7 @@ video_metadata:
 
 インストール = _insutooru_ = "install"
 
-Listen to the sound of the word: ({{% resource_link "f11bfa37-9190-496d-b386-8035546a6d3b" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word11.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  
