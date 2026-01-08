@@ -16,7 +16,7 @@ video_metadata:
 
 スイッチ = _suitti_ = "switch"
 
-Listen to the sound of the word: ({{% resource_link "185cd91e-8ea3-4ba3-a6d2-d0de5362e55f" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word8.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

@@ -16,7 +16,7 @@ video_metadata:
 
 ウインドウ = _uindoo_ = "window"
 
-Listen to the sound of the word: ({{% resource_link "8d10ec03-927f-43c4-94af-22a598479a55" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word18.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

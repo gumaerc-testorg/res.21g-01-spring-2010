@@ -16,7 +16,7 @@ video_metadata:
 
 データ = _deeta_ = "data"
 
-Listen to the sound of the word: ({{% resource_link "b884e67a-e5a2-47ec-97d1-19ead26a2d7b" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word1.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

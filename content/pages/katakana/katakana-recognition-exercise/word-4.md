@@ -16,7 +16,7 @@ video_metadata:
 
 デジタルカメラ = _dezitarukamera_ = "digital camera"
 
-Listen to the sound of the word: ({{% resource_link "e64e08b6-1734-473e-bc5b-327abdddb41b" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word4.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  

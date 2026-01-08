@@ -16,7 +16,7 @@ video_metadata:
 
 ニューテクノロジー = _nyuutekunorozii_ = "new technology"
 
-Listen to the sound of the word: ({{% resource_link "e0f49fe2-16b4-4862-914f-cc3f30f3d995" "MOV" %}})
+Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word15.mov))
 
   
 \[{{% resource_link 9f859657-a05b-2e05-a516-414b14a5e6e7 "Back" %}}\]  
