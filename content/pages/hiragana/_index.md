@@ -31,7 +31,7 @@ Jorden, Eleanor Harz. *Japanese: The Spoken Language, Part 1*. New Haven, CT: Ya
 
 Follow the links from the column headings to study that whole column, or click on each individual character. The "n-" and "w-" columns are included in "r", and the "y-" column is included in "m".
 
-Each character page contains an image of the character, a short movie of how it is written, and examples of words using the character. The movies were created by {{% resource_link "06d6e9a1-5abb-47be-8a06-a525b2d1d920" "Saeko Komori, Chubu University" %}}. You will hear the following words while watching the movies: **nagareru** (flow), **haneru** (hook), and **tomeru** (stop). Pay attention to these three points when practicing writing. Please see the {{% resource_link "be7f4d42-773f-4779-8732-5627c30fac15" "JP Net Kanji Project" %}} for more details.
+Each character page contains an image of the character, a short movie of how it is written, and examples of words using the character. The movies were created by [Saeko Komori, Chubu University](https://web.archive.org/web/20190422172556/http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html). You will hear the following words while watching the movies: **nagareru** (flow), **haneru** (hook), and **tomeru** (stop). Pay attention to these three points when practicing writing. Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 {{% resource_link "a572bb36-dd63-a46f-06ce-1e9f7031444c" "n" %}}
